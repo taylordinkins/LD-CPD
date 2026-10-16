@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code for the paper "Online Precision Matrix Changepoint Detection with Localization to Groups of Dimensions", currently in review at DMKD.
+This repository contains the code for the paper "Online Precision Matrix Changepoint Detection with Localization to Groups of Dimensions", currently in post-revision review at DMKD.
 
 ### Requirements
 
